@@ -1,0 +1,61 @@
+# Documento de Requisitos - Projeto Integrador
+Grupo: Delta Four
+Curso: Desenvolvimento de Software Multiplataforma (DSM) - Fatec Jahu
+Semestre: 5º
+
+## 1. Introdução
+Breve descrição do projeto (a ser definida).
+Objetivo do documento: registrar e detalhar os requisitos funcionais e não funcionais do sistema.
+
+## 2. Escopo do Projeto
+- Descrever o problema que será resolvido.
+- Descrever os objetivos principais do sistema.
+- Definir o público-alvo.
+
+## 3. Definições, Acrônimos e Abreviações
+- Listar termos técnicos usados no projeto.
+- Explicar abreviações, se necessário.
+
+## 4. Requisitos Funcionais
+Requisitos que descrevem o que o sistema deve fazer.
+Exemplo:
+- RF01: O sistema deve permitir o cadastro de usuários.
+- RF02: O sistema deve validar login com email e senha.
+- RF03: O sistema deve gerar relatórios em PDF.
+
+## 5. Requisitos Não Funcionais
+Requisitos que definem restrições ou qualidades do sistema.
+Exemplo:
+- RNF01: O sistema deve estar disponível 99% do tempo.
+- RNF02: A aplicação deve ser responsiva para desktop e mobile.
+- RNF03: O banco de dados deve garantir consistência dos dados.
+
+## 6. Casos de Uso
+Descrição dos principais casos de uso (opcional nesta fase).
+Exemplo:
+- UC01: Cadastrar Usuário
+  Ator: Usuário
+  Descrição: O usuário informa dados de cadastro e o sistema salva no banco.
+
+## 7. Tecnologias Previstas
+- Frontend: (a definir)
+- Backend: (a definir)
+- Banco de Dados: (a definir)
+- Outras ferramentas: (a definir)
+
+## 8. Restrições
+- O sistema deve ser desenvolvido no prazo definido pela disciplina.
+- O sistema deve seguir boas práticas de versionamento no GitHub.
+
+## 9. Riscos
+- Falta de definição clara do tema.
+- Dificuldades técnicas com tecnologias escolhidas.
+- Problemas de comunicação entre membros do grupo.
+
+## 10. Cronograma Inicial
+- Setembro: Organização do grupo, escolha do tema, levantamento de requisitos.
+- Outubro: Definição do MVP e início do desenvolvimento.
+- Novembro: Implementação e testes iniciais.
+- Dezembro: Ajustes finais e entrega.
+
+---
