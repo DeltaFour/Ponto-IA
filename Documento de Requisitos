@@ -4,13 +4,16 @@ Curso: Desenvolvimento de Software Multiplataforma (DSM) - Fatec Jahu
 Semestre: 5º
 
 ## 1. Introdução
-Breve descrição do projeto (a ser definida).
-Objetivo do documento: registrar e detalhar os requisitos funcionais e não funcionais do sistema.
+O projeto consiste no desenvolvimento de um aplicativo mobile de ponto eletrônico voltado para empresas.
+O sistema contará com autenticação por reconhecimento facial (usando Inteligência Artificial) e validação de localização via GPS, 
+garantindo que o funcionário só consiga registrar o ponto dentro do perímetro autorizado.
+
+## Objetivo do documento: registrar e detalhar os requisitos funcionais e não funcionais do sistema.
 
 ## 2. Escopo do Projeto
-- Descrever o problema que será resolvido.
-- Descrever os objetivos principais do sistema.
-- Definir o público-alvo.
+- Problema a ser resolvido: Muitas empresas ainda utilizam sistemas de ponto tradicionais que podem ser burlados, além de dependerem de equipamentos caros.
+- Objetivo da aplicação: Criar um aplicativo seguro, acessível e fácil de usar para controle de jornada de trabalho, com reconhecimento facial e restrição por GPS.
+- Público-Alvo: Pequenas e médias empresas que desejam reduzir custos com equipamentos físicos de ponto e aumentar a confiabilidade no registro de horários.
 
 ## 3. Definições, Acrônimos e Abreviações
 - Listar termos técnicos usados no projeto.
@@ -19,23 +22,26 @@ Objetivo do documento: registrar e detalhar os requisitos funcionais e não func
 ## 4. Requisitos Funcionais
 Requisitos que descrevem o que o sistema deve fazer.
 Exemplo:
-- RF01: O sistema deve permitir o cadastro de usuários.
-- RF02: O sistema deve validar login com email e senha.
-- RF03: O sistema deve gerar relatórios em PDF.
+- RF01: O sistema deve permitir o cadastro dos funcionários da empresa.
+- RF02: O sistema deve validar login com o CPF.
+- RF03: O sistema deve validar o funcionário por reconhecimento facial.
+- RF04: O sistema deve delimitar o uso do aplicativo por GPS.
 
 ## 5. Requisitos Não Funcionais
 Requisitos que definem restrições ou qualidades do sistema.
 Exemplo:
 - RNF01: O sistema deve estar disponível 99% do tempo.
-- RNF02: A aplicação deve ser responsiva para desktop e mobile.
+- RNF02: A aplicação deve ser para mobile.
 - RNF03: O banco de dados deve garantir consistência dos dados.
+- RNF04: A aplicação deve ser bem otimizada e rápida.
+- RNF05: O design da aplicação deve ser clean e atrativo. 
 
 ## 6. Casos de Uso
-Descrição dos principais casos de uso (opcional nesta fase).
+Descrição dos principais casos de uso.
 Exemplo:
-- UC01: Cadastrar Usuário
+- UC01: Login com CPF
   Ator: Usuário
-  Descrição: O usuário informa dados de cadastro e o sistema salva no banco.
+  Descrição: O usuário informa seu CPF que é validado no banco.
 
 ## 7. Tecnologias Previstas
 - Frontend: (a definir)
