@@ -280,58 +280,134 @@ Abaixo estão os prints das telas do sistema (temas Dark e Claro):
 <details>
   <summary><strong>Tema Dark</strong></summary>
   <br>
-  <p align="center">
-    <img src="./assets/tela%20de%20login.png" alt="Tela de Login" width="45%">
-    <img src="./assets/tela%20de%20registro%20stripe.png" alt="Tela de Registro" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/graficos%20dark.png" alt="Gráficos" width="45%">
-    <img src="./assets/bater%20ponto.png" alt="Bater Ponto" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/listagem%20funcionario.png" alt="Listagem Funcionário" width="45%">
-    <img src="./assets/criar%20usuario.png" alt="Criar Usuário" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/turnos%20dark.png" alt="Turnos" width="45%">
-    <img src="./assets/criar%20turno%20dark.png" alt="Criar Turno" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/listagem%20folha%20de%20ponto%20dark.png" alt="Listagem Folha de Ponto" width="45%">
-    <img src="./assets/detalhes%20folha%20de%20ponto%20dark.png" alt="Detalhes Folha de Ponto" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/ponto%20terceiros%20dark.png" alt="Ponto Terceiros" width="45%">
-    <img src="./assets/editar%20perfil%20dark.png" alt="Editar Perfil" width="45%">
-  </p>
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/tela%20de%20login.png" alt="Tela de Login" width="90%"><br>
+        <em>Tela inicial para acesso dos usuários ao sistema.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/tela%20de%20registro%20stripe.png" alt="Tela de Registro" width="90%"><br>
+        <em>Formulário de cadastro de empresa via Stripe.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/graficos%20dark.png" alt="Gráficos" width="90%"><br>
+        <em>Dashboard com gráficos e métricas da empresa.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/bater%20ponto.png" alt="Bater Ponto" width="90%"><br>
+        <em>Tela para registro de entrada e saída do colaborador.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/listagem%20funcionario.png" alt="Listagem Funcionário" width="90%"><br>
+        <em>Lista de colaboradores cadastrados na empresa.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/criar%20usuario.png" alt="Criar Usuário" width="90%"><br>
+        <em>Formulário para adicionar um novo colaborador ao sistema.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/turnos%20dark.png" alt="Turnos" width="90%"><br>
+        <em>Visualização dos turnos de trabalho configurados.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/criar%20turno%20dark.png" alt="Criar Turno" width="90%"><br>
+        <em>Formulário de criação e parametrização de turno.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/listagem%20folha%20de%20ponto%20dark.png" alt="Listagem Folha de Ponto" width="90%"><br>
+        <em>Lista das folhas de ponto geradas.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/detalhes%20folha%20de%20ponto%20dark.png" alt="Detalhes Folha de Ponto" width="90%"><br>
+        <em>Visualização detalhada da folha de ponto.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/ponto%20terceiros%20dark.png" alt="Ponto Terceiros" width="90%"><br>
+        <em>Funcionalidade para o RH registrar o ponto de terceiros.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/editar%20perfil%20dark.png" alt="Editar Perfil" width="90%"><br>
+        <em>Tela para edição das informações do usuário.</em>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details>
   <summary><strong>Tema Claro</strong></summary>
   <br>
-  <p align="center">
-    <img src="./assets/tela%20stripe.png" alt="Tela Stripe" width="45%">
-    <img src="./assets/graficos%20claro.png" alt="Gráficos" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/bater%20ponto%20claro.png" alt="Bater Ponto" width="45%">
-    <img src="./assets/listagem%20funcionario%20claro.png" alt="Listagem Funcionário" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/criar%20funcionario%20claro.png" alt="Criar Funcionário" width="45%">
-    <img src="./assets/turnos%20claro.png" alt="Turnos" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/criar%20turno%20claro.png" alt="Criar Turno" width="45%">
-    <img src="./assets/listagem%20folha%20de%20ponto%20claro.png" alt="Listagem Folha de Ponto" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/detalhes%20folha%20de%20ponto%20claro.png" alt="Detalhes Folha de Ponto" width="45%">
-    <img src="./assets/ponto%20terceiros%20claro.png" alt="Ponto Terceiros" width="45%">
-  </p>
-  <p align="center">
-    <img src="./assets/editar%20perfil%20claro.png" alt="Editar Perfil" width="45%">
-  </p>
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/tela%20stripe.png" alt="Tela Stripe" width="90%"><br>
+        <em>Tela para gerenciamento e pagamento da assinatura.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/graficos%20claro.png" alt="Gráficos" width="90%"><br>
+        <em>Dashboard com gráficos e métricas da empresa.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/bater%20ponto%20claro.png" alt="Bater Ponto" width="90%"><br>
+        <em>Tela para registro de entrada e saída do colaborador.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/listagem%20funcionario%20claro.png" alt="Listagem Funcionário" width="90%"><br>
+        <em>Lista de colaboradores cadastrados na empresa.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/criar%20funcionario%20claro.png" alt="Criar Funcionário" width="90%"><br>
+        <em>Formulário para adicionar um novo colaborador.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/turnos%20claro.png" alt="Turnos" width="90%"><br>
+        <em>Visualização dos turnos de trabalho configurados.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/criar%20turno%20claro.png" alt="Criar Turno" width="90%"><br>
+        <em>Formulário de criação e parametrização de turno.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/listagem%20folha%20de%20ponto%20claro.png" alt="Listagem Folha de Ponto" width="90%"><br>
+        <em>Lista das folhas de ponto geradas.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/detalhes%20folha%20de%20ponto%20claro.png" alt="Detalhes Folha de Ponto" width="90%"><br>
+        <em>Visualização detalhada da folha de ponto.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/ponto%20terceiros%20claro.png" alt="Ponto Terceiros" width="90%"><br>
+        <em>Funcionalidade para o RH registrar o ponto de terceiros.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/editar%20perfil%20claro.png" alt="Editar Perfil" width="90%"><br>
+        <em>Tela para edição das informações do usuário.</em>
+      </td>
+      <td align="center" width="50%">
+        <!-- Espaço vazio para manter alinhamento -->
+      </td>
+    </tr>
+  </table>
 </details>
 
 ## • Modelo de navegação
