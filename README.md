@@ -30,7 +30,7 @@
 
 </details>
 
-> Esta documentação foi atualizada com base no código-fonte atual, mantendo a estrutura ABNT do material-base.  
+> Esta documentação foi atualizada com base no código-fonte atual, mantendo a estrutura ABNT do material-base.
 
 # 1. Introdução
 
@@ -423,7 +423,7 @@ Pelas telas apresentadas, o fluxo de navegação visual pode ser entendido como:
 A documentação original informa o seguinte link de prototipação no Figma:
 
 **Figma:**  
-<https://www.figma.com/design/VzVoazrLPfMd1dNkN0keln/MOV-?node-id=0-1&t=1f8FgUnYCXeeP3sA-1>
+<https://www.figma.com/design/9FkQSfvBTeCdqD75rOzaSX/Untitled?node-id=0-1&t=hOwZG9kUzbQa7I6O-1>
 
 As telas exibidas na seção de design derivam do material-base e não correspondem integralmente à UI atual.
 
